@@ -46,6 +46,10 @@ Firebase
 
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=yohannesgaromsa&theme=tokyonight)
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Yohannes-Garomsa/Yohannes-Garomsa/blob/main/dist/github-contribution-grid-snake.svg)
+
 ---
 
 ## 🌐 Connect With Me
